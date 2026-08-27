@@ -13,8 +13,7 @@
 ---
 
 ## ⚙️ tech i use
-💻 languages: python, javascript, html/css  
-🚀 frameworks: fastapi, flask  
+💻 languages: python, javascript, html/css, c#   
 📊 libraries: pandas, numpy, scikit-learn  
 🧰 tools: git, linux, vscode  
 
